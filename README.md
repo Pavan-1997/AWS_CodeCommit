@@ -51,7 +51,7 @@ Disadvantages of CodeCommit:
    Now go the repo -> Click on Clone URL -> Click on Clone HTTPS -> Goto the local terminal(GitBash) and use the below
 
 ```
-git clone <Clone-HTTPS>
+git clone https://git-codecommit.us-east-2.amazonaws.com/v1/repos/Demo-App
 ```
 
 6. Goto the directory and see the file in the repo
@@ -80,6 +80,7 @@ git commit -m "Test"
 git push origin master
 ```
 
+![image](https://github.com/Pavan-1997/AWS_CodeCommit/assets/32020205/aedf1a0e-dfaa-47c9-a233-f2aebde9582a)
 
 
  
