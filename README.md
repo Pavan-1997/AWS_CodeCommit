@@ -35,9 +35,9 @@ Disadvantages of CodeCommit:
    
    Now click on create buttun 
    
-   Now upload any file into it using UI 
+   Now upload files into it using UI (Use files in repo)
    
-   We can push file to Code Commit using UI or cmd (using UI we can commit only one file hence using cmd)
+   We can push file to Code Commit using UI or cmd (using UI we can commit only one file hence using cmd) 
 
 
 3. AWS recommends to use devops tools using a IAM account bit not root account
