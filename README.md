@@ -80,6 +80,8 @@ git commit -m "Test"
 git push origin master
 ```
 
+You can check the AWS CodeCommit you should have the file which we pushed.
+
 ![image](https://github.com/Pavan-1997/AWS_CodeCommit/assets/32020205/aedf1a0e-dfaa-47c9-a233-f2aebde9582a)
 
 
