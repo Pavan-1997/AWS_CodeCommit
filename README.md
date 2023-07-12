@@ -7,3 +7,15 @@ involved in achieving CI/CD on AWS platform.
 
 It is similar to private repositories like GitHub Enterprise and GitLab used in organizations.
  
+Advantages of CodeCommit:
+
+- Managed Git
+- Scalability
+- Reliablity
+
+
+Disadvantages of CodeCommit:
+
+- Features
+- AWS Restricted
+- Fewer integrations with services outside AWS
